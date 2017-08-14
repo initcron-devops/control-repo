@@ -13,6 +13,9 @@ mod 'tomcat',
 #  :commit => '83401079053dca11d61945bd9beef9ecf7576cbf'
 
 
+mod 'java',
+  :git    => 'https://github.com/initcron/puppet-module-java.git'
+
 
 
 #mod 'apache',
